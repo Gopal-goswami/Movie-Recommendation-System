@@ -4,7 +4,7 @@
 ## 👤 Internship Demographics
 * **Full Name:** Gopal Goswami 
 * **Intern ID:** CITS3236
-* **Project Name:** Network Intrusion Detection System
+* **Project Name:** Movie Recommendation System
 * **Domain:**  Machine Learning
 * **Duration:** 4 Weeks
 
