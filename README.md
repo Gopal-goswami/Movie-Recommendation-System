@@ -1,6 +1,13 @@
 # 🎬 Premium OTT Movie Recommendation System
 ### 🚀 CODTECH IT SOLUTIONS INTERNSHIP - TASK 2
 
+## 👤 Internship Demographics
+* **Full Name:** Gopal Goswami 
+* **Intern ID:** CITS3236
+* **Project Name:** Network Intrusion Detection System
+* **Domain:**  Machine Learning
+* **Duration:** 4 Weeks
+
 A full-stack, real-time movie streaming and recommendation platform built as a **simple project** during my internship at **CodTech IT Solutions**. 
 
 This application features a complete user authentication gateway and a seamless content delivery layout, using a **MySQL database** to handle user security profiles as well as store the structured 100-movie blockbuster catalog.
